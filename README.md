@@ -45,7 +45,7 @@ To install the dependencies please follow the next steps:
     │   └── mano
 ```
 
-#### Generate whole-body grasps for test split.
+### Generate whole-body grasps for test split.
 
     cd src
 
@@ -58,6 +58,9 @@ You can also specify the test object name, subject shape and the position of the
     python ... --object apple --subject s1 --x 0.4 --z 0.4 --y 0.4
 
 The visualize result (.html) and the generated mesh file will be saved at your save path.
+
+### Training your own COOP.
+coming soon
 
 ## Citation
 To be completed
