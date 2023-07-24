@@ -1,7 +1,9 @@
+![Image text](https://github.com/zhengyanzhao1997/COOP/imgs/headpic.png)
 
 This repo is the official implementation for the ICCV2023 paper "COOP: Decoupling and Coupling of Whole-Body Grasping Pose Generation".
 
 COOP is a novel framework to synthesize life-like whole-body poses that cover the widest range of human grasping capabilities.
+![Image text](https://github.com/zhengyanzhao1997/COOP/imgs/coop.jpg)
 
 For more details please refer to the paper.
 
@@ -12,7 +14,7 @@ To install the dependencies please follow the next steps:
 - Clone this repository: 
     ```Shell
     git clone https://github.com/zhengyanzhao1997/COOP
-    cd GOAL
+    cd COOP
     ```
 - Install the dependencies by the following command:
     ```
@@ -21,6 +23,16 @@ To install the dependencies please follow the next steps:
 
 ## Getting started
 
+#### BNet and HNet
+- we have released the checkpoints of BNet and HNet in the folders as below.
+```bash
+    COOP
+    ├── src
+    │   ├── models
+    │       ├── Bnet
+    │       └── Hnet
+```
+
 #### Download SMPLX and MANO models
 - Download body models following the steps on the [SMPLX repo](https://github.com/vchoutas/smplx).
 - Download body models following the steps on the [MANO repo](https://mano.is.tue.mpg.de/).
@@ -28,10 +40,9 @@ To install the dependencies please follow the next steps:
 - Please put the SMPLX and MANO models in the folders as below.
 ```bash
     COOP
-    ├── src
-    │   ├── models
-    │       ├── smplx
-    │       └── mano
+    ├── model
+    │   ├── smplx
+    │   └── mano
 ```
 
 #### Generate whole-body grasps for test split.
