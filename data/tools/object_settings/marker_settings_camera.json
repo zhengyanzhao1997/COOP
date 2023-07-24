@@ -1,0 +1,20 @@
+{
+    "gender": "unknown",
+    "markersets": [
+        {
+            "distance_from_skin": 0.0002,
+            "indices": {
+               "camera1": 4326,
+               "camera2": 3281,
+               "camera3": 4401,
+               "camera4": 4436,
+               "camera5": 40241,
+               "camera6": 7068,
+               "camera7": 7095,
+               "camera8": 30932
+            },
+            "marker_radius": 0.0032,
+            "type": "object"
+        }
+    ]
+}

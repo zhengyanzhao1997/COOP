@@ -1,0 +1,19 @@
+{
+    "gender": "unknown",
+    "markersets": [
+        {
+            "distance_from_skin": 0.0002,
+            "indices": {
+               "eyeglasses7": 33371,
+               "eyeglasses6": 10500,
+               "eyeglasses4": 3761,
+               "eyeglasses3": 19738,
+               "eyeglasses5": 33528,
+               "eyeglasses1": 3825,
+               "eyeglasses2": 35027
+            },
+            "marker_radius": 0.0032,
+            "type": "object"
+        }
+    ]
+}

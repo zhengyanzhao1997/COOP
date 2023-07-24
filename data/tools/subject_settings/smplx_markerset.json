@@ -1,0 +1,146 @@
+{
+  "gender": "male",
+  "markersets": [
+    {
+      "distance_from_skin": 0.0095,
+      "indices": {
+        "C7": 4391,
+        "CLAV": 5533,
+        "LANK": 5761,
+        "LBSH": 4509,
+        "LBWT": 5678,
+        "LELB": 4245,
+        "LFRM": 4379,
+        "LFSH": 4515,
+        "LFWT": 5726,
+        "LHEL": 8852,
+        "LIEL": 4258,
+        "LKNE": 3638,
+        "LKNI": 3781,
+        "LSHN": 3705,
+        "LTHI": 3479,
+        "LUPA": 4039,
+        "MBWT": 4297,
+        "MFWT": 5615,
+        "RANK": 8455,
+        "RBSH": 7179,
+        "RBWT": 7145,
+        "RELB": 7028,
+        "RFRM": 7115,
+        "RFSH": 7251,
+        "RFWT": 8421,
+        "RHEL": 8634,
+        "RIEL": 7036,
+        "RKNE": 6401,
+        "RKNI": 6539,
+        "RSHN": 6466,
+        "RTHI": 6352,
+        "RUPA": 6778,
+        "STRN": 5532,
+        "ROWR": 7293,
+        "RIWR": 7274,
+        "LOWR": 4557,
+        "LIWR": 4538,
+        "T10": 5944
+      },
+      "type": "body"
+    },
+    {
+      "distance_from_skin": 0.0095,
+      "indices": {
+        "LMT1": 5893,
+        "LMT5": 5899,
+        "LTOE": 5857,
+        "RMT1": 8587,
+        "RMT5": 8593,
+        "RTOE": 8551
+      },
+      "type": "foot"
+    },
+    {
+      "distance_from_skin": 0.0095,
+      "indices": {
+        "RFHD": 3035,
+        "LFHD": 2148,
+        "LBHD": 2041,
+        "RBHD": 3076,
+        "ARIEL": 9002
+      },
+      "type": "head"
+    },
+    {
+      "distance_from_skin": 0.0002,
+      "indices": {
+        "LIDX1": 4875,
+        "LIDX2": 4897,
+        "LIDX3": 4931,
+        "LMID1": 5014,
+        "LMID2": 5020,
+        "LMID3": 5045,
+        "LPNK1": 5242,
+        "LPNK2": 5250,
+        "LPNK3": 5268,
+        "LRNG1": 5124,
+        "LRNG2": 5131,
+        "LRNG3": 5149,
+        "LTHM2": 4683,
+        "LTHM3": 5321,
+        "LTHM4": 5346,
+        "RIDX1": 7611,
+        "RIDX2": 7633,
+        "RIDX3": 7667,
+        "RMID1": 7750,
+        "RMID2": 7756,
+        "RMID3": 7781,
+        "RPNK1": 7978,
+        "RPNK2": 7984,
+        "RPNK3": 8001,
+        "RRNG1": 7860,
+        "RRNG2": 7867,
+        "RRNG3": 7884,
+        "RTHM2": 7419,
+        "RTHM3": 7602,
+        "RTHM4": 8082
+      },
+      "type": "finger"
+    },
+    {
+      "distance_from_skin": 0.0039,
+      "indices": {
+        "LTHM1": 4686,
+        "RTHM1": 7423,
+        "LIHAND": 4748,
+        "LOHAND": 4615,
+        "RIHAND": 7500,
+        "ROHAND": 7351
+      },
+      "type": "hand"
+    },
+    {
+      "distance_from_skin": 0.0002,
+      "indices": {
+        "MTH1": 2819,
+        "MTH2": 2813,
+        "MTH3": 8985,
+        "MTH4": 1696,
+        "MTH5": 1703,
+        "MTH6": 1795,
+        "MTH7": 8947,
+        "MTH8": 2898,
+        "CHN1": 8757,
+        "CHN2": 9066
+      },
+      "type": "face"
+    },
+    {
+      "distance_from_skin": 0.0002,
+      "indices": {
+        "REYE1": 2383,
+        "REYE2": 2311,
+        "LEYE1": 1043,
+        "LEYE2": 919
+      },
+      "type": "eyelids"
+    }
+  ]
+}

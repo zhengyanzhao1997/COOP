@@ -1,0 +1,20 @@
+{
+    "gender": "unknown",
+    "markersets": [
+        {
+            "distance_from_skin": 0.0002,
+            "indices": {
+               "stanford_bunny1": 45293,
+               "stanford_bunny2": 40789,
+               "stanford_bunny3": 31790,
+               "stanford_bunny4": 45059,
+               "stanford_bunny5": 20512,
+               "stanford_bunny6": 21393,
+               "stanford_bunny7": 19696,
+               "stanford_bunny8": 14282
+            },
+            "marker_radius": 0.0032,
+            "type": "object"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "gender": "unknown",
+    "markersets": [
+        {
+            "distance_from_skin": 0.0005,
+            "indices": {
+               "bowl1": 10817,
+               "bowl2": 16075,
+               "bowl3": 16660,
+               "bowl4": 49292,
+               "bowl5": 19539,
+               "bowl6": 24511,
+               "bowl7": 4719,
+               "bowl8": 44405,
+               "bowl9": 29422
+            },
+            "marker_radius": 0.0005,
+            "type": "object"
+        }
+    ]
+}

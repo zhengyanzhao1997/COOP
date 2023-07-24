@@ -1,0 +1,20 @@
+{
+    "gender": "unknown",
+    "markersets": [
+        {
+            "distance_from_skin": 0.0002,
+            "indices": {
+               "hammer7": 29067,
+               "hammer6": 7496,
+               "hammer1": 19033,
+               "hammer5": 18993,
+               "hammer8": 18831,
+               "hammer2": 18941,
+               "hammer4": 5724,
+               "hammer3": 18231
+            },
+            "marker_radius": 0.0032,
+            "type": "object"
+        }
+    ]
+}

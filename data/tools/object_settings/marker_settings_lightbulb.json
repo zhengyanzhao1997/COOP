@@ -1,0 +1,19 @@
+{
+    "gender": "unknown",
+    "markersets": [
+        {
+            "distance_from_skin": 0.0002,
+            "indices": {
+              "light_bulb1": 8409,
+              "light_bulb2": 28332,
+              "light_bulb3": 21087,
+              "light_bulb4": 15665,
+              "light_bulb5": 4261,
+              "light_bulb6": 19878,
+              "light_bulb7": 278
+            },
+            "marker_radius": 0.0032,
+            "type": "object"
+        }
+    ]
+}

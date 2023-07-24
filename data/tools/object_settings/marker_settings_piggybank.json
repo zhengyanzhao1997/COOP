@@ -1,0 +1,20 @@
+{
+    "gender": "unknown",
+    "markersets": [
+        {
+            "distance_from_skin": 0.0002,
+            "indices": {
+               "piggy_bank1": 37377,
+               "piggy_bank2": 13103,
+               "piggy_bank3": 22966,
+               "piggy_bank4": 44444,
+               "piggy_bank5": 44446,
+               "piggy_bank6": 14522,
+               "piggy_bank7": 22023,
+               "piggy_bank8": 12510
+            },
+            "marker_radius": 0.0032,
+            "type": "object"
+        }
+    ]
+}

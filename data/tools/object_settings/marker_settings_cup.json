@@ -1,0 +1,20 @@
+{
+    "gender": "unknown",
+    "markersets": [
+        {
+            "distance_from_skin": 0.0002,
+            "indices": {
+              "cup1": 22633,
+              "cup2": 22311,
+              "cup3": 22568,
+              "cup4": 5714,
+              "cup5": 7100,
+              "cup6": 8099,
+              "cup7": 19937,
+              "cup8": 28949
+            },
+            "marker_radius": 0.0032,
+            "type": "object"
+        }
+    ]
+}

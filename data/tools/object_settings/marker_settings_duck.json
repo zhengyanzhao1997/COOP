@@ -1,0 +1,20 @@
+{
+    "gender": "unknown",
+    "markersets": [
+        {
+            "distance_from_skin": 0.0002,
+            "indices": {
+               "duck1": 48629,
+               "duck3": 46148,
+               "duck2": 44873,
+               "duck6": 39870,
+               "duck4": 28626,
+               "duck7": 16389,
+               "duck8": 15603,
+               "duck5": 15160
+            },
+            "marker_radius": 0.0032,
+            "type": "object"
+        }
+    ]
+}

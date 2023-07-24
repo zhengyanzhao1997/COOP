@@ -1,0 +1,20 @@
+{
+    "gender": "unknown",
+    "markersets": [
+        {
+            "distance_from_skin": 0.00001,
+            "indices": {
+               "teapot1": 37655,
+               "teapot6": 27492,
+               "teapot7": 27294,
+               "teapot8": 19255,
+               "teapot5": 8619,
+               "teapot2": 15987,
+               "teapot4": 14553,
+               "teapot3": 2936
+            },
+            "marker_radius": 0.0032,
+            "type": "object"
+        }
+    ]
+}

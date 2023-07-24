@@ -1,0 +1,20 @@
+{
+    "gender": "unknown",
+    "markersets": [
+        {
+            "distance_from_skin": 0.0002,
+            "indices": {
+               "scissors8": 527,
+               "scissors3": 5619,
+               "scissors5": 6632,
+               "scissors7": 727,
+               "scissors6": 4048,
+               "scissors4": 2083,
+               "scissors1": 7178,
+               "scissors2": 6997
+            },
+            "marker_radius": 0.0032,
+            "type": "object"
+        }
+    ]
+}

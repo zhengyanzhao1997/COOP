@@ -1,0 +1,22 @@
+{
+    "gender": "unknown",
+    "markersets": [
+        {
+            "distance_from_skin": 0.0002,
+            "indices": {
+               "airplane5": 1857,
+               "airplane6": 1435,
+               "airplane2": 470,
+               "airplane1": 15671,
+               "airplane8": 12597,
+               "airplane4": 13126,
+               "airplane10": 17769,
+               "airplane7": 20788,
+               "airplane3": 23931,
+               "airplane9": 219
+            },
+            "marker_radius": 0.0032,
+            "type": "object"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "gender": "unknown",
+    "markersets": [
+        {
+            "distance_from_skin": 0.0002,
+            "indices": {
+               "pyramid_large1": 29544,
+               "pyramid_large2": 6052,
+               "pyramid_large3": 9432,
+               "pyramid_large4": 2569,
+               "pyramid_large5": 27423,
+               "pyramid_large6": 12436,
+               "pyramid_large7": 12704,
+               "pyramid_large8": 21847
+            },
+            "marker_radius": 0.0032,
+            "type": "object"
+        }
+    ]
+}

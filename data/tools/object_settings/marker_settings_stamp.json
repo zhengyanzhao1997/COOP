@@ -1,0 +1,20 @@
+{
+    "gender": "unknown",
+    "markersets": [
+        {
+            "distance_from_skin": 0.0002,
+            "indices": {
+               "stamp3": 12925,
+               "stamp2": 2312,
+               "stamp1": 205,
+               "stamp4": 24147,
+               "stamp5": 41676,
+               "stamp6": 28860,
+               "stamp7": 29571,
+               "stamp8": 42631
+            },
+            "marker_radius": 0.0032,
+            "type": "object"
+        }
+    ]
+}

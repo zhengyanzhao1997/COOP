@@ -1,0 +1,20 @@
+{
+    "gender": "unknown",
+    "markersets": [
+        {
+            "distance_from_skin": 0.0002,
+            "indices": {
+               "wine_glass1": 15240,
+               "wine_glass2": 6008,
+               "wine_glass3": 25066,
+               "wine_glass4": 15221,
+               "wine_glass5": 7229,
+               "wine_glass6": 46888,
+               "wine_glass7": 24407,
+               "wine_glass8": 46884
+            },
+            "marker_radius": 0.0032,
+            "type": "object"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "gender": "unknown",
+    "markersets": [
+        {
+            "distance_from_skin": 0.0002,
+            "indices": {
+               "cylinder_large1": 19920,
+               "cylinder_large2": 17838,
+               "cylinder_large3": 32384,
+               "cylinder_large4": 17785,
+               "cylinder_large5": 8479,
+               "cylinder_large6": 249,
+               "cylinder_large7": 54623
+            },
+            "marker_radius": 0.0032,
+            "type": "object"
+        }
+    ]
+}

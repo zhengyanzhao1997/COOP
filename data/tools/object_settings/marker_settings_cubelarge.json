@@ -1,0 +1,20 @@
+{
+    "gender": "unknown",
+    "markersets": [
+        {
+            "distance_from_skin": 0.0002,
+            "indices": {
+               "cube_large2": 12141,
+               "cube_large6": 14946,
+               "cube_large1": 12384,
+               "cube_large8": 48403,
+               "cube_large7": 12249,
+               "cube_large3": 11938,
+               "cube_large5": 19359,
+               "cube_large4": 12465
+            },
+            "marker_radius": 0.0032,
+            "type": "object"
+        }
+    ]
+}

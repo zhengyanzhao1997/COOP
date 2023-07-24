@@ -1,0 +1,20 @@
+{
+    "gender": "unknown",
+    "markersets": [
+        {
+            "distance_from_skin": 0.0002,
+            "indices": {
+               "toothpaste4": 17684,
+               "toothpaste6": 7163,
+               "toothpaste2": 12744,
+               "toothpaste5": 19389,
+               "toothpaste1": 23746,
+               "toothpaste8": 30980,
+               "toothpaste3": 43447,
+               "toothpaste7": 42656
+            },
+            "marker_radius": 0.0032,
+            "type": "object"
+        }
+    ]
+}

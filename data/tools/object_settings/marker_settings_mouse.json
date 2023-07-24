@@ -1,0 +1,19 @@
+{
+    "gender": "unknown",
+    "markersets": [
+        {
+            "distance_from_skin": 0.0002,
+            "indices": {
+               "computer_mouse5": 1817,
+               "computer_mouse2": 9556,
+               "computer_mouse6": 70,
+               "computer_mouse4": 3004,
+               "computer_mouse7": 15606,
+               "computer_mouse1": 29242,
+               "computer_mouse3": 22496
+            },
+            "marker_radius": 0.0032,
+            "type": "object"
+        }
+    ]
+}

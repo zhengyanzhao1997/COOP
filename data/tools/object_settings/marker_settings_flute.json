@@ -1,0 +1,20 @@
+{
+    "gender": "unknown",
+    "markersets": [
+        {
+            "distance_from_skin": 0.0002,
+            "indices": {
+               "flute3": 25422,
+               "flute4": 24921,
+               "flute1": 18797,
+               "flute5": 9772,
+               "flute2": 4526,
+               "flute8": 2239,
+               "flute7": 143,
+               "flute6": 99
+            },
+            "marker_radius": 0.0032,
+            "type": "object"
+        }
+    ]
+}

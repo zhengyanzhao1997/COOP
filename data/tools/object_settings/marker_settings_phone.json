@@ -1,0 +1,20 @@
+{
+    "gender": "unknown",
+    "markersets": [
+        {
+            "distance_from_skin": 0.0002,
+            "indices": {
+               "phone1": 23446,
+               "phone2": 6470,
+               "phone3": 17623,
+               "phone4": 20048,
+               "phone5": 310,
+               "phone6": 25379,
+               "phone7": 29427,
+               "phone8": 14998
+            },
+            "marker_radius": 0.0032,
+            "type": "object"
+        }
+    ]
+}

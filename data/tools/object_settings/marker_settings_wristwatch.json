@@ -1,0 +1,19 @@
+{
+    "gender": "unknown",
+    "markersets": [
+        {
+            "distance_from_skin": 0.0002,
+            "indices": {
+               "watch1": 4678,
+               "watch2": 4312,
+               "watch3": 11996,
+               "watch4": 11804,
+               "watch5": 7030,
+               "watch6": 4825,
+               "watch7": 13219
+            },
+            "marker_radius": 0.0032,
+            "type": "object"
+        }
+    ]
+}

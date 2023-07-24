@@ -1,0 +1,20 @@
+{
+    "gender": "unknown",
+    "markersets": [
+        {
+            "distance_from_skin": 0.0002,
+            "indices": {
+               "game_controller1": 8625,
+               "game_controller2": 22794,
+               "game_controller3": 24832,
+               "game_controller4": 17049,
+               "game_controller5": 14685,
+               "game_controller6": 12546,
+               "game_controller7": 8244,
+               "game_controller8": 5615
+            },
+            "marker_radius": 0.0032,
+            "type": "object"
+        }
+    ]
+}

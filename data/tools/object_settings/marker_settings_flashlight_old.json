@@ -1,0 +1,20 @@
+{
+    "gender": "unknown",
+    "markersets": [
+        {
+            "distance_from_skin": 0.0002,
+            "indices": {
+               "flashlight1": 56265,
+               "flashlight2": 60903,
+               "flashlight3": 73383,
+               "flashlight4": 15113,
+               "flashlight5": 53393,
+               "flashlight6": 51350,
+               "flashlight7": 21198,
+               "flashlight8": 54220
+            },
+            "marker_radius": 0.0032,
+            "type": "object"
+        }
+    ]
+}

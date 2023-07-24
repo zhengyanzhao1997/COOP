@@ -1,0 +1,17 @@
+{
+    "gender": "unknown",
+    "markersets": [
+        {
+            "distance_from_skin": 0.002,
+            "indices": {
+               "Table1": 32889,
+               "Table3": 43569,
+               "Table4": 13582,
+               "Table2": 5761,
+		"Table5":11636
+            },
+            "marker_radius": 0.005,
+            "type": "object"
+        }
+    ]
+}

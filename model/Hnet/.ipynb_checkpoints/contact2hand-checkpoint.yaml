@@ -1,0 +1,126 @@
+description: ''
+num_gpus: 2
+local_rank: 0
+use_cuda: true
+is_training: true
+logger_level: info
+use_half_precision: false
+pretrained: ''
+best_model: ''
+predict_offsets: true
+use_exp: 0.0
+debug: false
+seed: 3407
+cuda_id: 0
+chunk_size: 21
+n_epochs: 20
+n_inf_sample: 10
+n_verts_sample: 2048
+summary_folder: summaries
+results_folder: results
+code_folder: code
+summary_steps: 10
+backend: nccl
+checkpoint_folder: checkpoints
+checkpoint_steps: 1000
+eval_steps: 500
+float_dtype: float32
+max_duration: .inf
+max_iters: .inf
+network:
+  type: Coop
+  use_sync_bn: true
+  rnet_iter: 1
+  coop_model:
+    nblocks: 4
+    nneighbor: 16
+    concat_dim: 4
+    transformer_dim: 512
+    npoints: 2048
+    condition_size: 10
+    latentD: 8
+  early_stopping:
+    monitor: val_loss
+    min_delta: 0.0
+    patience: 5
+    verbose: true
+    mode: min
+  lr_scheduler:
+    type: ReduceLROnPlateau
+    verbose: true
+    patience: 5
+optim:
+  type: adam
+  lr: 0.0001
+  gtol: 1.0e-08
+  ftol: -1.0
+  maxiters: 100
+  num_epochs: 300
+  step: 30000
+  weight_decay: 0.0001
+  weight_decay_bias: 0.0
+  bias_lr_factor: 1.0
+  sgd:
+    momentum: 0.9
+    nesterov: true
+  adam:
+    betas:
+    - 0.9
+    - 0.999
+    eps: 1.0e-08
+    amsgrad: false
+  rmsprop:
+    alpha: 0.99
+  scheduler:
+    type: none
+    gamma: 0.1
+    milestones: []
+    step_size: 1000
+    warmup_factor: 0.03333333333333333
+    warmup_iters: 500
+    warmup_method: linear
+body_model:
+  type: smplx
+  model_path: ''
+datasets:
+  batch_size: 64
+  use_equal_sampling: true
+  use_packed: true
+  use_face_contour: true
+  n_verts_sample: 2048
+  splits: {}
+  num_workers:
+    train: 8
+    val: 8
+    test: 8
+  dataset_dir: ''
+  objects_dir: ''
+  grab_path: ''
+  fps: 30
+  past_frames: 10
+  future_pred: 10
+  chunk_size: 21
+  model_path: ''
+losses:
+  vertices:
+    type: l1
+    weight: 5.0
+  rh_vertices:
+    type: l1
+    weight: 5.0
+  pose:
+    type: l2
+    weight: 20.0
+  vertices_hd:
+    type: masked-l2
+    weight: 1.0
+    hd_fname: ''
+  dist_loss_exp: false
+  dist_loss_exp_v: true
+  kl_loss:
+    type: l1
+    weight: 0.0005
+evaluation:
+  body:
+    v2v:
+    - procrustes

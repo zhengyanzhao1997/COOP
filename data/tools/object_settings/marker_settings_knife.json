@@ -1,0 +1,20 @@
+{
+    "gender": "unknown",
+    "markersets": [
+        {
+            "distance_from_skin": 0.0002,
+            "indices": {
+              "knife1": 29163,
+              "knife2": 26719,
+              "knife3": 33022,
+              "knife4": 7786,
+              "knife5": 15796,
+              "knife6": 12312,
+              "knife7": 33254,
+              "knife8": 28914
+            },
+            "marker_radius": 0.0032,
+            "type": "object"
+        }
+    ]
+}

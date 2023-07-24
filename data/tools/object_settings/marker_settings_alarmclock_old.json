@@ -1,0 +1,20 @@
+{
+    "gender": "unknown",
+    "markersets": [
+        {
+            "distance_from_skin": 0.0002,
+            "indices": {
+               "alarm_clock1": 29802,
+               "alarm_clock2": 30575,
+               "alarm_clock3": 42836,
+               "alarm_clock4": 23093,
+               "alarm_clock5": 1477,
+               "alarm_clock6": 13300,
+               "alarm_clock7": 16038,
+               "alarm_clock8": 21131
+            },
+            "marker_radius": 0.0032,
+            "type": "object"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "gender": "unknown",
+    "markersets": [
+        {
+            "distance_from_skin": 0.0002,
+            "indices": {
+               "headphones2": 31859,
+               "headphones4": 46885,
+               "headphones6": 9718,
+               "headphones5": 26251,
+               "headphones3": 28667,
+               "headphones1": 9050,
+               "headphones7": 9996,
+               "headphones8": 9559
+            },
+            "marker_radius": 0.0032,
+            "type": "object"
+        }
+    ]
+}

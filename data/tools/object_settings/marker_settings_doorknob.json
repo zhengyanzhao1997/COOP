@@ -1,0 +1,20 @@
+{
+    "gender": "unknown",
+    "markersets": [
+        {
+            "distance_from_skin": 0.0002,
+            "indices": {
+               "doorknob3": 12925,
+               "doorknob2": 2312,
+               "doorknob1": 205,
+               "doorknob4": 24147,
+               "doorknob5": 41676,
+               "doorknob6": 28860,
+               "doorknob7": 29571,
+               "doorknob8": 42631
+            },
+            "marker_radius": 0.0032,
+            "type": "object"
+        }
+    ]
+}

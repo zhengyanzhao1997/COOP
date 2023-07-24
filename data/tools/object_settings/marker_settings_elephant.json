@@ -1,0 +1,20 @@
+{
+    "gender": "unknown",
+    "markersets": [
+        {
+            "distance_from_skin": 0.0002,
+            "indices": {
+               "elephant2": 43362,
+               "elephant8": 43431,
+               "elephant5": 22502,
+               "elephant7": 16903,
+               "elephant6": 16254,
+               "elephant4": 16663,
+               "elephant3": 8266,
+               "elephant1": 8371
+            },
+            "marker_radius": 0.0032,
+            "type": "object"
+        }
+    ]
+}

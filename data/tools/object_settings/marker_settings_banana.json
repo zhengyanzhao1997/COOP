@@ -1,0 +1,20 @@
+{
+    "gender": "unknown",
+    "markersets": [
+        {
+            "distance_from_skin": 0.0005,
+            "indices": {
+               "banana1": 26548,
+               "banana2": 34168,
+               "banana3": 27697,
+               "banana4": 45332,
+               "banana5": 33122,
+               "banana6": 8992,
+               "banana7": 16471,
+               "banana8": 19153
+            },
+            "marker_radius": 0.0005,
+            "type": "object"
+        }
+    ]
+}

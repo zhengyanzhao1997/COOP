@@ -1,0 +1,20 @@
+{
+    "gender": "unknown",
+    "markersets": [
+        {
+            "distance_from_skin": 0.0002,
+            "indices": {
+              "toothbrush6": 21349,
+              "toothbrush1": 66439,
+              "toothbrush2": 238,
+              "toothbrush4": 30892,
+              "toothbrush5": 6216,
+              "toothbrush3": 44445,
+              "toothbrush7": 12846,
+              "toothbrush8": 45748
+            },
+            "marker_radius": 0.0032,
+            "type": "object"
+        }
+    ]
+}

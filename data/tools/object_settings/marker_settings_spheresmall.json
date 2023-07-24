@@ -1,0 +1,19 @@
+{
+    "gender": "unknown",
+    "markersets": [
+        {
+            "distance_from_skin": 0.0002,
+            "indices": {
+               "sphere_small1": 750,
+               "sphere_small2": 194,
+               "sphere_small3": 20101,
+               "sphere_small4": 739,
+               "sphere_small5": 26,
+               "sphere_small6": 1312,
+               "sphere_small7": 1353
+            },
+            "marker_radius": 0.0032,
+            "type": "object"
+        }
+    ]
+}

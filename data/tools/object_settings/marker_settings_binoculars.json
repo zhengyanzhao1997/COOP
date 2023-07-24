@@ -1,0 +1,22 @@
+{
+    "gender": "unknown",
+    "markersets": [
+        {
+            "distance_from_skin": 0.0005,
+            "indices": {
+               "binoculars1": 15012,
+               "binoculars2": 23983,
+               "binoculars3": 7853,
+               "binoculars4": 16343,
+               "binoculars5": 7505,
+               "binoculars6": 1544,
+               "binoculars7": 20627,
+               "binoculars8": 6789,
+               "binoculars9": 27911,
+               "binoculars10": 19383
+            },
+            "marker_radius": 0.0005,
+            "type": "object"
+        }
+    ]
+}

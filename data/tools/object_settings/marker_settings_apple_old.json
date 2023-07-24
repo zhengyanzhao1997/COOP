@@ -1,0 +1,21 @@
+{
+    "gender": "unknown",
+    "markersets": [
+        {
+            "distance_from_skin": 0.0005,
+            "indices": {
+               "apple1": 27314,
+               "apple2": 1063,
+               "apple3": 5104,
+               "apple4": 15397,
+               "apple5": 17040,
+               "apple6": 2435,
+               "apple7": 16250,
+               "apple8": 6195,
+               "apple9": 6542
+            },
+            "marker_radius": 0.0005,
+            "type": "object"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "gender": "unknown",
+    "markersets": [
+        {
+            "distance_from_skin": 0.0002,
+            "indices": {
+               "coffee_mug1": 1742,
+               "coffee_mug2": 1617,
+               "coffee_mug3": 15101,
+               "coffee_mug4": 29924,
+               "coffee_mug5": 21351,
+               "coffee_mug6": 15947,
+               "coffee_mug7": 30166,
+               "coffee_mug8": 30349
+            },
+            "marker_radius": 0.0032,
+            "type": "object"
+        }
+    ]
+}

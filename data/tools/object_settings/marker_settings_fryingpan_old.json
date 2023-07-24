@@ -1,0 +1,20 @@
+{
+    "gender": "unknown",
+    "markersets": [
+        {
+            "distance_from_skin": 0.0002,
+            "indices": {
+               "frying_pan1": 25947,
+               "frying_pan7": 17714,
+               "frying_pan4": 42597,
+               "frying_pan6": 56714,
+               "frying_pan2": 28766,
+               "frying_pan5": 69485,
+               "frying_pan3": 83843,
+               "frying_pan8": 12950
+            },
+            "marker_radius": 0.0032,
+            "type": "object"
+        }
+    ]
+}

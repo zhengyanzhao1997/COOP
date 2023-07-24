@@ -1,0 +1,19 @@
+{
+    "gender": "unknown",
+    "markersets": [
+        {
+            "distance_from_skin": 0.0002,
+            "indices": {
+               "water_bottle1": 1795,
+               "water_bottle2": 14487,
+               "water_bottle3": 768,
+               "water_bottle4": 5005,
+               "water_bottle5": 18289,
+               "water_bottle6": 7049,
+               "water_bottle7": 14195
+            },
+            "marker_radius": 0.0032,
+            "type": "object"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "gender": "unknown",
+    "markersets": [
+        {
+            "distance_from_skin": 0.0002,
+            "indices": {
+               "torus_large1": 39969,
+               "torus_large2": 40757,
+               "torus_large3": 39913,
+               "torus_large4": 40768,
+               "torus_large5": 21225,
+               "torus_large6": 21221,
+               "torus_large7": 21270,
+               "torus_large8": 21237
+            },
+            "marker_radius": 0.0032,
+            "type": "object"
+        }
+    ]
+}

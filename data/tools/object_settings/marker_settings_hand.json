@@ -1,0 +1,20 @@
+{
+    "gender": "unknown",
+    "markersets": [
+        {
+            "distance_from_skin": 0.0002,
+            "indices": {
+               "hand2": 32570,
+               "hand7": 26693,
+               "hand1": 24379,
+               "hand8": 14876,
+               "hand3": 9949,
+               "hand4": 9128,
+               "hand5": 7208,
+               "hand6": 1434
+            },
+            "marker_radius": 0.0032,
+            "type": "object"
+        }
+    ]
+}

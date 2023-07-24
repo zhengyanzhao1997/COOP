@@ -1,0 +1,19 @@
+{
+    "gender": "unknown",
+    "markersets": [
+        {
+            "distance_from_skin": 0.0002,
+            "indices": {
+               "train1": 15109,
+               "train2": 12977,
+               "train3": 4926,
+               "train4": 18163,
+               "train5": 4832,
+               "train6": 15700,
+               "train7": 15958
+            },
+            "marker_radius": 0.0032,
+            "type": "object"
+        }
+    ]
+}
