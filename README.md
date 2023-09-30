@@ -5,7 +5,7 @@ This repo is the official implementation for the ICCV2023 paper "COOP: Decouplin
 COOP is a novel framework to synthesize life-like whole-body poses that cover the widest range of human grasping capabilities.
 ![Image text](https://github.com/zhengyanzhao1997/COOP/blob/master/imgs/coop.jpg)
 
-For more details please refer to the paper.
+For more details please refer to the paper <a href="https://openaccess.thecvf.com/content/ICCV2023/html/Zheng_COOP_Decoupling_and_Coupling_of_Whole-Body_Grasping_Pose_Generation_ICCV_2023_paper.html" target="_blank">COOP: Decoupling and Coupling of Whole-Body Grasping Pose Generation</a>.
 
 ## Installation
 
@@ -63,4 +63,13 @@ The visualize result (.html) and the generated mesh file will be saved at your s
 coming soon
 
 ## Citation
-To be completed
+```
+@InProceedings{Zheng_2023_ICCV,
+    author    = {Zheng, Yanzhao and Shi, Yunzhou and Cui, Yuhao and Zhao, Zhongzhou and Luo, Zhiling and Zhou, Wei},
+    title     = {COOP: Decoupling and Coupling of Whole-Body Grasping Pose Generation},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+    month     = {October},
+    year      = {2023},
+    pages     = {2163-2173}
+}
+```
